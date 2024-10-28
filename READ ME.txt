@@ -1,0 +1,9 @@
+OPEN 'popup.html'!!! ANY OTHER FILE WILL NOT OPEN PROPERLY, THIS IS A CHROME EXTENSION. To turn this into a usable chrome extension or your personal use, go to chrome, then type in chrome://extensions into the search bar, then at the top right, enable developer mode, the at the top left, press Load unpacked, then select the popup.html file and it should appear, press the reload button to make sure everything is loaded. then press the puzzle piece at the top right of your browser, and press the pin icon to pin it to the extensions bar, then just press the icon and it will show up
+summary:
+
+• Type 'chrome://extensions' into chrome
+• Enable dev mode
+• Press Load unpacked
+• Select file
+• Refresh
+• Pin
